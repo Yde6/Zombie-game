@@ -1,2 +1,2 @@
-# Zombie-game
+# zombie-game
 Programmering c eksamensprojekt
